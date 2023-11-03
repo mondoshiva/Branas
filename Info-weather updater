@@ -1,0 +1,4 @@
+Save this code into a file named my-weather-updater.php.
+Upload this file to a new directory within your WordPress plugins directory: /wp-content/plugins/my-weather-updater/.
+Go to your WordPress dashboard and activate the plugin named "My Weather Updater".
+Use the shortcode [my_simple_weather] in your WordPress posts or pages to display the weather data.
